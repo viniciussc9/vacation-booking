@@ -1,4 +1,4 @@
-# Landon Hotel – Multithreaded Cloud-Ready Scheduling App
+# Multithreaded Cloud-Ready Scheduling App
 
 A full-stack hotel scheduling application with a **Java / Spring Boot** back end and an **Angular** front end, enhanced with:
 
@@ -7,7 +7,7 @@ A full-stack hotel scheduling application with a **Java / Spring Boot** back end
 - Multi-currency **price display** (USD, CAD, EUR)
 - A **Dockerized** deployment flow suitable for cloud hosting
 
-Originally built as part of an advanced Java / Spring course, this project simulates a hotel reservation system for the fictional **Landon Hotel** in Toronto.
+Originally built as part of an advanced Java / Spring course, this project simulates a hotel reservation system for the fictional in Toronto.
 
 ---
 
@@ -21,8 +21,8 @@ Originally built as part of an advanced Java / Spring course, this project simul
 
 Example concept:
 
-- Thread 1 → `messages_en.properties` → “Welcome to Landon Hotel!”
-- Thread 2 → `messages_fr.properties` → “Bienvenue à l’hôtel Landon !”
+- Thread 1 → `messages_en.properties` → “Welcome to the Hotel!”
+- Thread 2 → `messages_fr.properties` → “Bienvenue à l’hôtel!”
 
 This showcases:
 - Resource bundle–driven i18n (internationalization)
